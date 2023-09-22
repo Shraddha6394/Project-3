@@ -30,15 +30,5 @@ If you have suggestions for how Messsy could be improved, or want to report a bu
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
-## License
 
-[ISC](LICENSE) © 2020 hackslash-nitp <hackslash.nitp@gmail.com>
-
-<h2>  Contributors</h2> 
-<a href="https://github.com/hackslash-nitp/messsy/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=hackslash-nitp/messsy" />
-</a>
-
-Made with [contributors-img](https://contrib.rocks).
-###### ❤️ Thanks to our awesome contributors.
 
